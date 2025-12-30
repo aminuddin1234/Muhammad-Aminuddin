@@ -25,5 +25,5 @@
 ![Adobe Lightroom](https://img.shields.io/badge/adobe%20lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
 
 ### 📊 My Activity
-![GitHub Stars](https://img.shields.io/github/stars/YOUR_USERNAME?style=flat-square&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=red)
+![GitHub Stars](https://img.shields.io/github/stars/aminuddin1234?style=flat-square&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/aminuddin1234?style=flat-square&color=red)
