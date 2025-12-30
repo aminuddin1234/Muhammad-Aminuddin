@@ -25,8 +25,6 @@
 ![Adobe Lightroom](https://img.shields.io/badge/adobe%20lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
 
 ### GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aminuddin1234&show_icons=true&theme=radical)
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aminuddin1234&show_icons=true&theme=dark" alt="Aminuddin's GitHub Stats" />
 </p>
