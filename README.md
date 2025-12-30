@@ -26,3 +26,7 @@
 
 ### GitHub Stats:
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aminuddin1234&show_icons=true&theme=radical)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aminuddin1234&show_icons=true&theme=dark" alt="Aminuddin's GitHub Stats" />
+</p>
