@@ -1,3 +1,5 @@
+<img width="736" height="183" alt="Gemini_Generated_Image_2genqi2genqi2gen" src="https://github.com/user-attachments/assets/4038df75-65f6-4da3-823b-3e28fdbf37dd" />
+
 # Muhammad Aminuddin
 
 ### Portfolio Data Analyst:
