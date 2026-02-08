@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/muhammad-aminuddin-mab987)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amiamin987@gmail.com)
 
-### Tech Stack:
+# Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -28,13 +28,14 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/adobe%20lightroom-%2331A8FF.svg?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
 
+# Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminuddin1234&from=2025-12-01&to=2026-12-31&theme=dracula)
+
+# My GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminuddin1234&theme=tokyonight)](https://git.io/streak-stats)
+
 ### 📊 Tracker
 ![Visitor Count](https://komarev.com/ghpvc/?username=aminuddin1234&color=blue&style=flat-square&label=PROFILE+VIEWS)
 ![GitHub Stars](https://img.shields.io/github/stars/aminuddin1234?style=flat-square&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/aminuddin1234?style=flat-square&color=red)
 
-# Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminuddin1234&theme=high-contrast)
-
-# My GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminuddin1234&theme=dark)](https://git.io/streak-stats)
