@@ -33,9 +33,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/aminuddin1234?style=flat-square&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/aminuddin1234?style=flat-square&color=red)
 
+# Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminuddin1234&theme=high-contrast)
 
 # My GitHub Stats
-![Your GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=aminuddin1234&show_icons=true&theme=dark)
-
-# Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminuddin1234&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aminuddin1234&theme=dark)](https://git.io/streak-stats)
