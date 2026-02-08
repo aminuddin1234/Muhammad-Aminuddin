@@ -34,4 +34,8 @@
 ![GitHub Followers](https://img.shields.io/github/followers/aminuddin1234?style=flat-square&color=red)
 
 
-![Monthly Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminuddin1234&theme=react-dark&area=true&hide_border=true&days=30)
+# My GitHub Stats
+![Your GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=aminuddin1234&show_icons=true&theme=dark)
+
+# Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aminuddin1234&theme=tokyonight)
